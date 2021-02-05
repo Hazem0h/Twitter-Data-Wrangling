@@ -32,9 +32,10 @@ After these 3 main steps, I was required to provide some **insights** from the c
 - `"twitter-archive-enhanced.csv"`: The downloadable file
 - `"image_prediction.tsv"`: The HTML requested file
 - `"tweet_json.txt"`: The File generated after using the Twitter API
-- `"rating_fix"`: A file in which "rating" was manually fixed due to wrong parsing from the downloadble data
-- `"name_fix"`: A file in which "dog name" was manually fixed due to wrong parsing from the downloadble data
+- `"rating_fix.csv"`: A file in which "rating" was manually fixed due to wrong parsing from the downloadble data
+- `"name_fix.csv"`: A file in which "dog name" was manually fixed due to wrong parsing from the downloadble data
 
 #### Report files:
--`insights_report.pdf`
+- `insights_report.pdf`
 - `Wrangling_report.pdf`
+
